@@ -1,0 +1,4 @@
+name: MegaBukkit
+version: '${project.version}'
+main: io.megabukkit.MegaBukkit
+api-version: 1.19
